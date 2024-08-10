@@ -6,6 +6,10 @@
 ## 💪 프로젝트 소개
 이 프로젝트는 외부라이브러리에 의존하지 않고 다양한 영상변환 기능을 직접 구현하였습니다.
 
+&nbsp;
+
+&nbsp;
+
 ## 😄 주요 기능
 * Digital Image Processing (3rd)의 주요기능들을 직접 구현하였습니다
 * BMP파일은 편의를 위해 8bpp로 고정시켰습니다. (pallette 정보는 흑백을 가정하고 제작하였습니다)
@@ -13,10 +17,18 @@
 * 그외의 사용자가 건드릴 수 있는 부분은 최대한 커스터마이징 할 수 있게 하였습니다
 * 나머지 부분은 수학 알고리즘에 의해 최적의 값을 찾습니다
 
+&nbsp;
+
+&nbsp;
+
 ## ℹ️ 개발 정보
 * 개발기간 : 23.03.22 ~ 05.23
 * 개발인원 : 류성수 (dbtjdtn325@gmail.com)
 * 개발환경 : Window 11 (23H2), VisualStudio 2022 (17.9.6 v), C17
+
+&nbsp;
+
+&nbsp;
 
 ## 🙏 설치 및 실행방법
 
@@ -55,6 +67,10 @@
 
 ![스크린샷 2024-08-10 174619](https://github.com/user-attachments/assets/c2c068df-683d-4c36-85da-353354f18da7)
 
+&nbsp;
+
+&nbsp;
+
 ## 👍 결과 예시
 
 오리지널 baboon.bmp
@@ -65,6 +81,9 @@
 
 ![스크린샷 2024-08-10 175103](https://github.com/user-attachments/assets/0c57c1f1-f8de-4285-a5b4-3f1bb7515945)
 
+&nbsp;
+
+&nbsp;
 
 ## 🤔 자세한 정보
 
